@@ -1,4 +1,3 @@
-#Group 3
 #Project 3
 #March 26, 2023
 
